@@ -39,25 +39,24 @@ table {
 }
 
 .hnav {
-color: #00568c;
+background-color: #00568c99;
 min-height: 80px;
 }
 
 .hnav ul {
     display: block;
     text-align: center;
-    
+
 }
 
 .hnav ul li {
     display: inline-block;
-    color: #008e66;
     width: 15%;
     list-style-type: none;
 }
 
 .hnav a {
-
+    color: #008e66;
 }
 
 .hnav a:hover {
