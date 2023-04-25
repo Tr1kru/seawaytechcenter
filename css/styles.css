@@ -18,12 +18,13 @@ max-width: 100%;
 
 h1 {
 text-align: center;
+color: #008e66;
+font-weight: bold;
 }
 
 h2 {
 font-weight: bold;
 font-size: 2em;
-color: #008e66;
 }
 
 p {
@@ -39,7 +40,7 @@ table {
 }
 
 .hnav {
-background-color: #00568c99;
+background-color: #00568c;
 min-height: 80px;
 }
 
@@ -67,23 +68,33 @@ main {
 
 }
 
+#container {
+    width: 80%;
+    display: inherit;
+    text-align: center;
+}
+
 
 .fnav {
-
+    background-color: #00568c;
+    min-height: 80px;
 }
 
 .fnav ul {
-
+    display: block;
+    text-align: center;
 }
 
 .fnav ul li {
-
+    display: inline-block;
+    width: 15%;
+    list-style-type: none;
 }
 
 .fnav a {
-
+    color: #008e66;
 }
 
 .fnav a:hover {
-
+    color: #ffffff;
 }
