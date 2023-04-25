@@ -84,6 +84,16 @@ main img {
     background-color: #cccccc;
 }
 
+.img {
+    max-height: 200px;
+    max-width: 400px;
+}
+
+.build {
+    max-height: 200px;
+    max-width: 400px;
+}
+
 footer {
     text-align: center;
     background-color: #cccccc;
