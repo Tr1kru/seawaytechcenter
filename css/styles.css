@@ -74,6 +74,10 @@ main img {
     width: 100%;
 }
 
+ul li {
+    text-decoration: none;
+}
+
 #container {
     width: 80%;
     display: block;
@@ -85,8 +89,8 @@ main img {
 }
 
 .img {
-    max-height: 600px;
-    max-width: 800px;
+    max-height: 500px;
+    max-width: 600px;
 }
 
 .build {
