@@ -81,6 +81,7 @@ main img {
     padding: 5% 0;
 	margin: 0 auto;
     min-height: 800px;
+    background-color: #cccccc;
 }
 
 footer {
@@ -107,6 +108,7 @@ footer {
 
 .fnav a {
     color: #008e66;
+    text-decoration: none;
 }
 
 .fnav a:hover {
