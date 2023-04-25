@@ -100,7 +100,6 @@ table {
     box-sizing: border-box;
     text-indent: initial;
     border-spacing: 2px;
-    float: right;
 }
 
 tbody {
@@ -116,8 +115,8 @@ tr {
 }
 
 input {
-    height: 5em;
-	width: 10em;
+    height: 2em;
+	width: 5em;
 	border-radius: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
