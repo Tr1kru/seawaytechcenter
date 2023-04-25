@@ -13,7 +13,7 @@
 }
 
 body {
-background-color: #ffffff;
+max-width: 100%;
 }
 
 h1 {
@@ -23,6 +23,7 @@ text-align: center;
 h2 {
 font-weight: bold;
 font-size: 2em;
+color: #008e66;
 }
 
 p {
@@ -38,16 +39,16 @@ table {
 }
 
 .hnav {
-background-color: #00568c99;
+color: #008e66;
 }
 
 .hnav ul {
-
+    display: block;
 }
 
 .hnav ul li {
-    display: block;
-    background-color: #008e66;
+    display: inline-block;
+    background-color: #00568c;
 }
 
 .hnav a {
