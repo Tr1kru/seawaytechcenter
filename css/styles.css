@@ -90,8 +90,43 @@ main img {
 }
 
 .build {
-    max-height: 400px;
-    max-width: 600px;
+    max-height: 600px;
+    max-width: 800px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+input {
+    height: 5em;
+	width: 20em;
+	border-radius: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-size: 1em;
+	font-weight: bold;
+	
+}
+
+.frmButton {
+	width: 10em;	
 }
 
 footer {
